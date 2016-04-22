@@ -1,0 +1,28 @@
+name: David Macek
+favicon: null
+layout_spectrum: 0.6838475551921874
+typography_spectrum: 0.6833417729940265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7064723274670541
+  lightness: 0.7821433555800468
+  saturation: 0.08858415763825178
+  rhythmicContrast: 0.2633735779672861
+purpose: []
