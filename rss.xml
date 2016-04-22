@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[David Macek]]></title>
-        <description><![CDATA[David Macek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Let's Collaborate for a Better World]]></title>
+        <description><![CDATA[Let's Collaborate for a Better World]]></description>
+        <link>https://thegrid.ai/davidemacek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 14:54:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 15:08:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/davidemacek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bde377b-3483-41ed-a5d1-50c0c6da6af0.jpg">]]></description>
+            <link>https://thegrid.ai/davidemacek/leadership/index.html</link>
+            <guid isPermaLink="false">189c67f8-809d-487f-9a25-e37dfaced673</guid>
+            <pubDate>Fri, 22 Apr 2016 15:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d776378-93fd-4525-9bde-c969f13059a7.jpg">]]></description>
-            <link>undefinedcommunity-mimics-the-heart-that-essential-place-where-all-b/index.html</link>
+            <link>https://thegrid.ai/davidemacek/community-mimics-the-heart-that-essential-place-where-all-b/index.html</link>
             <guid isPermaLink="false">5e0960dc-3728-452b-9261-2fc43c60d848</guid>
             <pubDate>Fri, 22 Apr 2016 14:54:12 GMT</pubDate>
         </item>
